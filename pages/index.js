@@ -41,6 +41,7 @@ export default function Home() {
     <div className={styles.text}>
           <p>This is an annual median percentage of the low income families based on age, sex and economic family type in Canada in the year 2015. People 18 and under fall in the largest percentage of a low income age group (16.3%), while persons aged 18-64 make up 15.7 percent of the total of the categories listed.</p>
           </div>
+  
           <div>
       <PieChart/>
       </div>

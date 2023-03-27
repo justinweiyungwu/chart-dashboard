@@ -19,10 +19,10 @@ npm i react-chartjs-2
 ## doughnut chart 
 - Total Population of Canada in Q1 2022
 ## Collected Data
-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401&pickMembers%5B0%5D=1.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2022&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20220101%2C20220701
+[Consumer Price Index](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401&pickMembers%5B0%5D=1.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2022&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20220101%2C20220701)
 
-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013501&pickMembers%5B0%5D=1.1&cubeTimeFrame.startYear=2015&cubeTimeFrame.endYear=2020&referencePeriods=20150101%2C20200101
+[2015 low income stats](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013501&pickMembers%5B0%5D=1.1&cubeTimeFrame.startYear=2015&cubeTimeFrame.endYear=2020&referencePeriods=20150101%2C20200101)
 
 
-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+[Population Estimates](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901)
 
